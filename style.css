@@ -1,7 +1,7 @@
 html,
 body {
     overflow-x: hidden !important;
-    background-image: url(https://raw.githubusercontent.com/rohankumawat-stack/Portfolio/refs/heads/main/image/Stars%20shine%20effect%20background%20on%20black%20screen%20animation%20%20__%204K%20__%20Ultra%20hd%20__%2060fps.jpg');
+    background-image: url('https://raw.githubusercontent.com/rohankumawat-stack/Portfolio/refs/heads/main/image/Stars%20shine%20effect%20background%20on%20black%20screen%20animation%20%20__%204K%20__%20Ultra%20hd%20__%2060fps.jpg');
     background-attachment: fixed;
     height: auto;
 }
@@ -334,3 +334,4 @@ textarea:focus {
     font-weight: bolder;
 
 }
+
